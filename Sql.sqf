@@ -160,10 +160,3 @@ _marker setMarkerTextLocal "Callsigne | Leader | Freq";
 5,
 []
 ] call CBA_fnc_addPerFrameHandler;
-
-/*
-if (isNil "_freq" or _freq == "") then {
-	_marker setMarkerText format [" %1 | %2",_name,_leader];
-} else {
-	_marker setMarkerText format [" %1 | %2 | Channel: %3",_name,_leader,_freq];
-};
