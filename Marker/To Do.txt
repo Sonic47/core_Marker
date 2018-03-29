@@ -1,0 +1,6 @@
+Was ist noch alles zu machen?
+if using TF 47 SQL then remove join group from ace
+
+Auto detect und in die liste hinzufügen
+was passiert wenn zerstört
+Parametern hinzufügen 	--> Minblaster fragen was er haben will
